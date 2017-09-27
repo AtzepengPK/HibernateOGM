@@ -1,0 +1,6 @@
+com\rizvn\ogmdemo\entity\Dog.class
+com\rizvn\ogmdemo\controller\TestController.class
+com\rizvn\ogmdemo\conf\DbConf.class
+com\rizvn\ogmdemo\entity\Breed.class
+com\rizvn\ogmdemo\conf\Starter.class
+com\rizvn\ogmdemo\dao\GenericDao.class
