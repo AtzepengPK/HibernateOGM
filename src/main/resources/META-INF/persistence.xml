@@ -15,14 +15,14 @@
             <!-- property is optional if you want to use Infinispan, otherwise adjust to your favorite
                 NoSQL Datastore provider. -->
             <property name="hibernate.ogm.datastore.provider" value="mongodb"/>
-            <property name="hibernate.ogm.datastore.host" value="mongodb://riz:riz1@mongodb/local"/>
+            <property name="hibernate.ogm.datastore.host" value="mongodb://user1J0:pwSqWYSDNFTUJMla@mongodb/sampledb"/>
             <property name="hibernate.ogm.datastore.port" value="27017"/>
-            <property name="hibernate.ogm.datastore.database" value="local"/>
+            <property name="hibernate.ogm.datastore.database" value="sampledb"/>
             <property name="hibernate.ogm.datastore.create_database" value="true"/>
 
             
-            <property name="hibernate.ogm.mongodb.username" value="riz"/>
-            <property name="hibernate.ogm.mongodb.password" value="riz1"/>        
+            <property name="hibernate.ogm.mongodb.username" value="user1J0"/>
+            <property name="hibernate.ogm.mongodb.password" value="pwSqWYSDNFTUJMla"/>        
 
             <!--
              more props: http://docs.jboss.org/hibernate/ogm/4.1/reference/en-US/html_single/#_configuring_mongodb
